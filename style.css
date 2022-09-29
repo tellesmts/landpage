@@ -1,0 +1,44 @@
+
+.body, html{
+	background-image: url('download.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+	
+	
+
+	
+}
+
+.titulo{
+	font-family: courier;
+	color: green;
+	position: fixed;
+	left: 1%;
+}
+
+.nav{
+	font-family: courier;
+	color: white;
+	position: absolute;
+	right: 1%;
+	top: 1%;
+	
+
+}
+
+
+
+
+footer{
+	font-family: courier;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 30px;
+	background-color: blue;
+	justify-content: center;
+	text-align: center;
+}
+
