@@ -39,7 +39,11 @@ footer{
 	background-color: blue;
 	justify-content: center;
 	text-align: center;
+	display: flex;
+	align-items: center;
+
 }
+
 
 .caixa1{
 	width: 500px;
